@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personajes>
+    <personaje>
+        <juego protagonista="Master Chief">Halo: Combat Evolved</juego>
+        <company nombre="Microsoft">2001</company>
+    </personaje>
+    <personaje>
+        <juego protagonista="Cloud Strife">Final Fantasy VII</juego>
+        <company nombre="Square">1997</company>
+    </personaje>
+    <personaje>
+        <juego protagonista="Marcus Fenix">Gears of War</juego>
+        <company nombre="Microsoft">2006</company>
+    </personaje>
+    <personaje>
+        <juego protagonista="Sam Fisher">Tom Clancys Splinter Cell</juego>
+        <company nombre="Ubisoft">2002</company>
+    </personaje>
+    <personaje>
+        <juego protagonista="Altair">Assassins Creed</juego>
+        <company nombre="Ubisoft">2007</company>
+    </personaje>
+    <personaje>
+        <juego protagonista="Sephiroth">Final Fantasy VII</juego>
+        <company nombre="Square">1997</company>
+    </personaje>
+    <personaje>
+        <juego protagonista="Ezio">Assassins Creed II</juego>
+        <company nombre="Ubisoft">2009</company>
+    </personaje>
+    <personaje>
+        <juego protagonista="Augustus Cole">Gears of War</juego>
+        <company nombre="Microsoft">2006</company>
+    </personaje>
+</personajes>

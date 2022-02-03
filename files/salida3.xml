@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personajes>
+    <personaje id="9" nombre="Kratos" juego="God of War">
+        <company ano="2005">Sony</company>
+    </personaje>
+    <personaje id="10" nombre="Sonic" juego="Sonic the Hedgehog">
+        <company ano="1990">Sega</company>
+    </personaje>
+    <personaje id="11" nombre="Crash" juego="Crash Bandicoot">
+        <company ano="1996">Sony</company>
+    </personaje>
+    <personaje id="15" nombre="Ratchet" juego="Ratchet &amp; Clank">
+        <company ano="2002">Sony</company>
+    </personaje>
+    <personaje id="16" nombre="Nathan Drake" juego="Uncharted: Drakes Fortune">
+        <company ano="2007">Sony</company>
+    </personaje>
+    <personaje id="25" nombre="Shadow" juego="Sonic Adventure 2">
+        <company ano="2001">Sega</company>
+    </personaje>
+    <personaje id="26" nombre="Jak" juego="Jak and Daxter: The Precursor Legacy">
+        <company ano="2001">Sony</company>
+    </personaje>
+    <personaje id="28" nombre="Dante" juego="Devil May Cry">
+        <company ano="2003">Bandai</company>
+    </personaje>
+    <personaje id="29" nombre="Naruto" juego="Naruto: Konoha Ninpoch">
+        <company ano="2003">Bandai</company>
+    </personaje>
+    <personaje id="50" nombre="Sackboy" juego="LittleBigPlanet">
+        <company ano="2008">Sony</company>
+    </personaje>
+</personajes>
